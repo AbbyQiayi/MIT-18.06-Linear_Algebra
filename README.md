@@ -2,7 +2,7 @@
 Prof. Gilbert Strang 
 
 **教材：**
-The textbook for this course is: Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714
+The textbook for this course is: Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714  
 More material on linear algebra: Professor Strang’s 2014 textbook Differential Equations and Linear Algebra
 
 **b站视频地址（熟肉）：**
